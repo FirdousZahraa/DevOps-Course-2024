@@ -9,10 +9,6 @@ This repository contains informative articles focused on cutting-edge technologi
 
 A comprehensive comparison of WebAssembly and Docker, focusing on their use cases, performance, security, and ecosystems. It provides insights into choosing the right technology for tasks like web app development or containerized deployments.
 
-
-
-
-
 ### 2. [Knative 101: Simplifying Serverless on Kubernetes](/blogs/Knative%20101:%20Simplifying%20Serverless%20on%20Kubernetes.md)
 An introduction to Knative, an open-source platform built on Kubernetes for simplifying serverless app deployment. The blog covers the key components of Knative, such as Knative Serving and Eventing, and demonstrates how to deploy a simple app with efficient autoscaling, event-driven features, and Kubernetes-native integration.
 
